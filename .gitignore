@@ -415,3 +415,7 @@ fabric.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/flutter,dart,darteditor,android,androidstudio,vscode,swift,swiftpm,swiftpackagemanager,kotlin
+
+
+# Additional
+.idea/runConfigurations/
