@@ -12,10 +12,6 @@
 
 > flutter_screen_streaming is an open source project and we love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into flutter_screen_streaming itself.
 
-### Explain contributions you are NOT looking for (if any).
-
-> Please, don't use the issue tracker for [support questions]. 
-
 # Ground Rules
 
 > Responsibilities
