@@ -4,7 +4,7 @@
 
 > First off, thank you for considering contributing to flutter_screen_streaming. It's people like you that make flutter_screen_streaming such a great plugin.
 
-### Why they should read these guidelines.
+### Why you should read these guidelines.
 
 > Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
